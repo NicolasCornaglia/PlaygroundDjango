@@ -1,0 +1,8 @@
+we will be working with CBV(class based views), this website can be usefull ccbv.co.uk
+
+Functionalities developed in this website:
+
+.
+.
+.
+.TDD(Test Driven Development)
